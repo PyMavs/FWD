@@ -6,3 +6,5 @@ Link to Agendas:
 Friday - https://etherpad.gnome.org/p/pyagenda
 
 Metrics - https://etherpad.gnome.org/p/metrics-FWD
+
+Outreach - https://etherpad.gnome.org/p/fwdoutreach
