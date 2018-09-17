@@ -2,8 +2,8 @@
 Fedora Women's Day
 
 Details: 
-https://fedoraproject.org/wiki/Fedora_Women%27s_Day/2018?rd=Fedora_Women%27s_Day_2018
-https://pagure.io/fedora-diversity/fedora-womens-day/issue/9
+* https://fedoraproject.org/wiki/Fedora_Women%27s_Day/2018?rd=Fedora_Women%27s_Day_2018
+* https://pagure.io/fedora-diversity/fedora-womens-day/issue/9
 
 Link to Agendas:
 
